@@ -1,3 +1,7 @@
 text file1
+<<<<<<< HEAD
 change
 change file1 conflict
+=======
+change feature1
+>>>>>>> add-feature1
